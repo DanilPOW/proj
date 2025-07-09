@@ -1,0 +1,8 @@
+gradio
+python-docx
+docx2pdf
+pymupdf
+Pillow
+imagehash
+camelot-py[cv]
+rapidfuzz
