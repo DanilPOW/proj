@@ -6,3 +6,6 @@ Pillow
 imagehash
 camelot-py[cv]
 rapidfuzz
+lxml
+fuzzywuzzy
+python-levenshtein
